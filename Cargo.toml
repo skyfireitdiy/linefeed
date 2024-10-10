@@ -2,13 +2,13 @@
 name = "linefeed"
 description = "Interactive terminal input reader"
 
-authors = ["Murarth <murarth@gmail.com>"]
-version = "0.6.0"
+authors = ["Murarth <murarth@gmail.com>", "skyfireitdiy@hotmail.com"]
+version = "0.6.1"
 edition = "2018"
 
 documentation = "https://docs.rs/linefeed/"
-homepage = "https://github.com/murarth/linefeed"
-repository = "https://github.com/murarth/linefeed"
+homepage = "https://github.com/skyfireitdiy/linefeed"
+repository = "https://github.com/skyfireitdiy/linefeed"
 
 categories = ["command-line-interface"]
 keywords = ["console", "terminal", "input", "readline"]

@@ -32,6 +32,7 @@ pub struct MemoryTerminal {
 #[derive(Debug)]
 struct Writer {
     memory: Vec<char>,
+    #[allow(dead_code)]
     input: Vec<u8>,
     col: usize,
     line: usize,
