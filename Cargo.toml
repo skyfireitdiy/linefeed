@@ -1,12 +1,12 @@
 [package]
-name = "linefeed"
-description = "Interactive terminal input reader"
+name = "linefeed2"
+description = "Interactive terminal input reader base `https://github.com/murarth/linefeed`"
 
-authors = ["Murarth <murarth@gmail.com>", "skyfireitdiy@hotmail.com"]
-version = "0.6.1"
+authors = ["skyfireitdiy@hotmail.com"]
+version = "0.0.1"
 edition = "2018"
 
-documentation = "https://docs.rs/linefeed/"
+documentation = "https://docs.rs/linefeed2/"
 homepage = "https://github.com/skyfireitdiy/linefeed"
 repository = "https://github.com/skyfireitdiy/linefeed"
 
